@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning about strapi, nextjs and tailwind css.
 - ⚡ Fun fact: Saxophone is one of my hobbies.
 
-<br>
 <hr>
 
 ### 📈 GitHub Stats
@@ -16,7 +15,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=opatricpires&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<br>
 <hr>
 
 ### ⚡️ Skills
@@ -30,14 +28,11 @@
 ![](https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646)
 ![](https://camo.githubusercontent.com/59a8c5aa4b58bba625bbb5fa448866bbd9a24a0d261002db8ddc6ca9ca5a0ae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646)
 
-<br>
-
 ### 🛠 Tools:
 
 ![](https://camo.githubusercontent.com/601124f66c81b25a2026cf2775d0a83900ac126db52ed3efbad1b5fda48de561/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c6564436f6d706f6e656e74732d4442373039333f266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d464646464646)
 ![](https://camo.githubusercontent.com/32b0496cd72940d6f408c529580ec4e31c895469cb3ce1b9cbf84aea5ceb7782/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53746f7279626f6f6b2d4646343738353f266c6f676f3d73746f7279626f6f6b266c6f676f436f6c6f723d464646464646)
 
-<br>
 <hr>
 
 ### 💬 Get in touch
