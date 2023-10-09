@@ -4,7 +4,7 @@
 
 - 🇧🇷 São Paulo, Brazil.
 - 🔭 I’m currently working with React and React Native.
-- 🌱 I’m currently learning about strapi, nextjs and tailwind css.
+- 🌱 I’m currently learning about python.
 - ⚡ Fun fact: Saxophone is one of my hobbies.
 
 <hr>
